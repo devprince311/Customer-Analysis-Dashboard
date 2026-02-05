@@ -24,7 +24,7 @@ This project analyzes **customer shopping behavior** using transactional retail 
 - **Behavioral Data:** Discounts, Promo Codes, Previous Purchases, Review Ratings, Shipping Type  
 
 ⚠️ *Missing Values:*  
-- 37 missing values in the `review_rating` column, handled during data preprocessing. :contentReference[oaicite:1]{index=1}
+- 37 missing values in the `review_rating` column, handled during data preprocessing. 
 
 ---
 
@@ -45,8 +45,7 @@ Key steps performed using Python:
   - `age_group`
   - `purchase_frequency_days`
 - Removed redundant columns after validation
-- Loaded cleaned data into **PostgreSQL** for SQL analysis :contentReference[oaicite:2]{index=2}
-
+- Loaded cleaned data into **PostgreSQL** for SQL analysis 
 ---
 
 ## 🧮 SQL-Based Business Analysis
@@ -61,7 +60,7 @@ The following key business questions were answered using SQL:
 7. Customer segmentation into **New, Returning, Loyal**
 8. Top 3 products within each **category**
 9. Relationship between **repeat buyers and subscriptions**
-10. Revenue contribution by **age group** :contentReference[oaicite:3]{index=3}
+10. Revenue contribution by **age group** 
 
 Advanced SQL concepts used:
 - CTEs
@@ -79,7 +78,7 @@ An interactive **Power BI dashboard** was built to visualize insights, including
 - Age-group based revenue
 - Discount and shipping behavior
 
-The dashboard enables **drill-down analysis** and supports business stakeholders in decision-making. :contentReference[oaicite:4]{index=4}
+The dashboard enables **drill-down analysis** and supports business stakeholders in decision-making. 
 
 ---
 
@@ -97,7 +96,7 @@ The dashboard enables **drill-down analysis** and supports business stakeholders
 - Introduce **loyalty programs** to convert repeat buyers into loyal customers  
 - Optimize **discount strategies** to protect profit margins  
 - Highlight **top-rated and best-selling products** in marketing campaigns  
-- Focus **targeted marketing** on high-revenue age groups and premium shipping users :contentReference[oaicite:5]{index=5}
+- Focus **targeted marketing** on high-revenue age groups and premium shipping users 
 
 ---
 
