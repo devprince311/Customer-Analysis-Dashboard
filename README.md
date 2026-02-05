@@ -1,7 +1,7 @@
 # Customer Shopping Behavior Analysis
 
 ## 📌 Project Overview
-This project analyzes **customer shopping behavior** using transactional retail data to uncover insights into **spending patterns, customer segments, product performance, and subscription behavior**. The goal is to support **data-driven business decisions** through a complete analytics workflow involving **Python, SQL, PostgreSQL, and Power BI**. :contentReference[oaicite:0]{index=0}
+This project analyzes **customer shopping behavior** using transactional retail data to uncover insights into **spending patterns, customer segments, product performance, and subscription behavior**. The goal is to support **data-driven business decisions** through a complete analytics workflow involving **Python, SQL, PostgreSQL, and Power BI**. 
 
 ---
 
